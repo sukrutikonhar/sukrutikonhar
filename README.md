@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Sukruti%20Konhar&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Frontend%20Engineer%20%C2%B7%20React%20%2F%20Next.js%20%2F%20TypeScript&descSize=15&descAlignY=85&descColor=c7d2fe" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=160&section=header&text=Sukruti%20Konhar&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Engineer%20%7C%20React%20%2F%20Next.js%20%2F%20TypeScript&descSize=16&descAlignY=75&descColor=e0e7ff" width="100%"/>
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukrutikonhar)
 &nbsp;
-![Location](https://img.shields.io/badge/Bengaluru%2C%20India-🇮🇳-6366f1?style=for-the-badge)
+![Location](https://img.shields.io/badge/Bengaluru%2C%20India-%236366f1.svg?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -23,14 +23,16 @@
 ```typescript
 const sukruti = {
   role        : "Frontend Engineer",
-  experience  : "4.6 years",
+  experience  : "4+ years",
   stack       : ["React.js", "Next.js", "TypeScript"],
   domains     : ["ESG & Sustainability Tech", "AI-Integrated Products", "Enterprise SaaS"],
-  currentFocus: "Building at the intersection of frontend craft and AI-powered products",
+  currentFocus: "Building scalable frontend systems for complex, domain-rich products",
 };
 ```
 
-I build **production-grade SaaS products** — from enterprise sustainability reporting platforms used by APAC organisations to AI-native recruitment tools. My last 2 years have been spent working within teams that ship AI capabilities (anomaly detection, LLM-integrated workflows) into real products, engineering the interfaces that make those systems usable.
+Frontend engineer with **4+ years of experience** shipping production SaaS across sustainability reporting, field service platforms, and recruitment tools. I work best on products where the UI has to handle real complexity — regulatory data flows, multi-tenant architectures, AI-assisted interfaces, and enterprise-scale dashboards.
+
+Most recently I have been building on the frontend of products where AI features are integrated into the core workflow, writing the interfaces that make model output interpretable and usable for end users.
 
 <br/>
 
@@ -75,18 +77,18 @@ I build **production-grade SaaS products** — from enterprise sustainability re
 
 **🌱 ecoPRISM**
 
-Enterprise ESG & sustainability reporting platform covering **CSRD, BRSR, and GHG frameworks**. Built multi-tenant dashboards, regulatory data input flows, audit trail UIs, and report generation interfaces — used by organisations across India and APAC.
+Enterprise ESG and sustainability reporting platform covering **CSRD, BRSR, and GHG frameworks**. Built multi-tenant dashboards, data input flows, audit trail UIs, AI-powered data insights, and regulatory report generation. Used by organisations across India, APAC, and Europe where sustainability disclosure is becoming mandatory under frameworks like CSRD.
 
-`React` `Next.js` `TypeScript` `Multi-tenant` `REST APIs`
+`React` `Next.js` `TypeScript` `REST APIs` `Multi-tenant`
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 AI Recruitment Platform**
+**🤖 AI-Integrated Recruitment Platform**
 
-Frontend for an AI-native hiring tool. Built candidate evaluation UIs, integrated LLM-powered screening APIs, and designed the AI-to-human handoff interface — making model output interpretable and actionable for reviewers.
+Frontend engineering on a recruitment tool with AI-powered features. Built candidate evaluation interfaces, integrated with AI backend APIs for resume screening and scoring, and designed the interface layer that surfaces model output clearly to human reviewers.
 
-`React` `TypeScript` `LLM APIs` `REST APIs`
+`React` `TypeScript` `AI APIs` `REST APIs`
 
 </td>
 </tr>
@@ -95,16 +97,16 @@ Frontend for an AI-native hiring tool. Built candidate evaluation UIs, integrate
 
 **🔧 [Arreglio](https://github.com/sukrutikonhar/arreglio-store-admin)**
 
-Multi-region repair service marketplace. Built booking flows, service management dashboards, and operations admin tooling across geographic regions.
+Multi-region repair service platform. Built booking flows, service management dashboards, and operations admin tooling that runs daily across geographic regions.
 
 `React` `Next.js` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ What's next**
+**⚡ Building next**
 
-Building hands-on AI projects to deepen skills in LLM APIs and AI-integrated architecture:
+Deepening hands-on skills with LLM APIs and AI-integrated frontend architecture:
 
 → AI Resume Analyzer *(in progress)*
 → AI ESG Report Generator *(planned)*
@@ -139,13 +141,13 @@ Building hands-on AI projects to deepen skills in LLM APIs and AI-integrated arc
 
 ---
 
-### 🌐 &nbsp;Domain expertise
+### 🌐 &nbsp;Domain depth
 
 ```
-ESG Reporting    ████████████████████  CSRD · BRSR · GHG Protocols
-Frontend Arch    ██████████████████░░  Component systems · State management · Performance
-AI Integration   ████████████░░░░░░░░  LLM APIs · Anomaly detection · AI-assisted UX
-Enterprise SaaS  ████████████████░░░░  Multi-tenant · Audit trails · Regulatory compliance
+ESG / Sustainability     ████████████████████  CSRD · BRSR · GHG · Multi-region enterprise
+Frontend Architecture    ██████████████████░░  Component systems · State management · Performance
+AI-Integrated UI         ████████████░░░░░░░░  AI feature interfaces · Model output UX · API integration
+Enterprise SaaS          ████████████████░░░░  Multi-tenant · Audit trails · Regulatory compliance
 ```
 
 <br/>
