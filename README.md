@@ -1,112 +1,157 @@
-<!-- Paste this into: github.com/sukrutikonhar/sukrutikonhar/README.md -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Sukruti%20Konhar&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Frontend%20Engineer%20%C2%B7%20React%20%2F%20Next.js%20%2F%20TypeScript&descSize=15&descAlignY=85&descColor=c7d2fe" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-# Hi, I'm Sukruti 👋
-
-**Frontend Engineer · 4.6 years · React / Next.js / TypeScript**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sukrutikonhar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sukrutikonhar)
-[![Location](https://img.shields.io/badge/Bengaluru-India-1DA462?style=flat)](https://github.com/sukrutikonhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sukrutikonhar)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukrutikonhar)
+&nbsp;
+![Location](https://img.shields.io/badge/Bengaluru%2C%20India-🇮🇳-6366f1?style=for-the-badge)
 
 </div>
 
----
-
-## About me
-
-I'm a frontend engineer with **4.6 years of experience** building production-grade SaaS products across sustainability tech, multi-region service platforms, and AI-powered recruitment tools.
-
-My work lives at the intersection of **clean frontend architecture** and **complex business domains** — things like regulatory ESG reporting, multi-tenant dashboards, and AI-assisted recruitment workflows. I've spent the last 2 years working on a team that integrates AI capabilities (anomaly detection, LLM-assisted features) into enterprise software, contributing on the frontend side of those products.
-
-I'm now building my own AI projects to deepen that skillset — starting with tools I'd actually use.
-
-Currently open to **Frontend**, **Full Stack**, and **AI-enabled Software Engineering** roles.
+<br/>
 
 ---
 
-## Tech stack
+### 👩‍💻 &nbsp;About me
 
-**Languages & Frameworks**
-```
-React.js · Next.js · TypeScript · JavaScript (ES2022+) · HTML · CSS
-```
-
-**UI & State**
-```
-Tailwind CSS · ShadCN/UI · Material UI · Zustand · React Query · Redux
-```
-
-**APIs & Integrations**
-```
-REST APIs · Webhook Architectures · Third-party API integrations
+```typescript
+const sukruti = {
+  role        : "Frontend Engineer",
+  experience  : "4.6 years",
+  stack       : ["React.js", "Next.js", "TypeScript"],
+  domains     : ["ESG & Sustainability Tech", "AI-Integrated Products", "Enterprise SaaS"],
+  currentFocus: "Building at the intersection of frontend craft and AI-powered products",
+};
 ```
 
-**Tools**
-```
-Git · GitHub · Vercel · Figma · Postman
-```
+I build **production-grade SaaS products** — from enterprise sustainability reporting platforms used by APAC organisations to AI-native recruitment tools. My last 2 years have been spent working within teams that ship AI capabilities (anomaly detection, LLM-integrated workflows) into real products, engineering the interfaces that make those systems usable.
 
-**Domain Knowledge**
-```
-ESG / CSRD / BRSR Reporting · Sustainability Tech · Recruitment Automation
-```
+<br/>
 
 ---
 
-## Work I've shipped
+### 🛠 &nbsp;Tech stack
 
-### 🌱 ecoPRISM — Enterprise ESG & Sustainability Reporting Platform
-> *React · Next.js · TypeScript · REST APIs · Multi-tenant architecture*
+<div align="center">
 
-Frontend engineering on an enterprise sustainability reporting platform covering **CSRD, BRSR, and GHG frameworks**. Built data input flows, audit trail UIs, multi-tenant dashboards, and regulatory report generation interfaces. Used by organisations across India and APAC to meet mandatory ESG disclosure requirements.
+#### Languages & Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
----
+#### UI & State Management
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=flat-square&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=flat-square&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=flat-square&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 
-### 🤖 AI-Powered Recruitment Tool
-> *React · TypeScript · REST APIs · LLM-integrated backend*
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Frontend work on an AI-native recruitment platform. Built the candidate evaluation UI, integrated with LLM-powered backend APIs for resume screening and scoring, and designed interfaces that surface AI output to human reviewers clearly. Contributed to the design of AI-to-human handoff workflows.
+</div>
 
----
-
-### 🔧 Arreglio — Multi-Region Repair Service Platform
-> *React · TypeScript · Next.js*
-
-Full frontend for a repair service marketplace operating across multiple geographic regions. Built booking flows, service management dashboards, and admin tooling used by operations teams daily. Source available → [arreglio-store-admin](https://github.com/sukrutikonhar/arreglio-store-admin)
-
----
-
-## What I'm working on
-
-I'm building AI projects to grow my hands-on skills with LLM APIs and AI-integrated architectures:
-
-- 🔨 **AI Resume Analyzer** — Upload resume + job description → structured gap analysis and rewrite suggestions using Claude API *(in progress)*
-- 🔨 **AI ESG Report Generator** — Generates BRSR/CSRD report sections from raw sustainability data inputs *(planned)*
-
----
-
-## By the numbers
-
-| | |
-|---|---|
-| 🗓️ Total experience | 4.6 years |
-| ⚛️ React experience | 3+ years |
-| 🏢 Production SaaS products | 3 |
-| 🌍 Domains | ESG/Sustainability · AI Recruitment · Field Services |
-| 🤝 Org contributions | ecoPRISM · Arreglio |
+<br/>
 
 ---
 
-## Let's connect
+### 🚀 &nbsp;Products I've built
 
-Open to new roles starting **2026** — especially teams building complex, domain-rich products with modern frontend stacks.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 💼 [linkedin.com/in/sukrutikonhar](https://linkedin.com/in/sukrutikonhar)
-- 📍 Bengaluru, India — open to remote and hybrid
+**🌱 ecoPRISM**
+
+Enterprise ESG & sustainability reporting platform covering **CSRD, BRSR, and GHG frameworks**. Built multi-tenant dashboards, regulatory data input flows, audit trail UIs, and report generation interfaces — used by organisations across India and APAC.
+
+`React` `Next.js` `TypeScript` `Multi-tenant` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI Recruitment Platform**
+
+Frontend for an AI-native hiring tool. Built candidate evaluation UIs, integrated LLM-powered screening APIs, and designed the AI-to-human handoff interface — making model output interpretable and actionable for reviewers.
+
+`React` `TypeScript` `LLM APIs` `REST APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔧 [Arreglio](https://github.com/sukrutikonhar/arreglio-store-admin)**
+
+Multi-region repair service marketplace. Built booking flows, service management dashboards, and operations admin tooling across geographic regions.
+
+`React` `Next.js` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ What's next**
+
+Building hands-on AI projects to deepen skills in LLM APIs and AI-integrated architecture:
+
+→ AI Resume Analyzer *(in progress)*
+→ AI ESG Report Generator *(planned)*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### 📊 &nbsp;GitHub stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sukrutikonhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrutikonhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sukrutikonhar&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+<br/>
+
+---
+
+### 🌐 &nbsp;Domain expertise
+
+```
+ESG Reporting    ████████████████████  CSRD · BRSR · GHG Protocols
+Frontend Arch    ██████████████████░░  Component systems · State management · Performance
+AI Integration   ████████████░░░░░░░░  LLM APIs · Anomaly detection · AI-assisted UX
+Enterprise SaaS  ████████████████░░░░  Multi-tenant · Audit trails · Regulatory compliance
+```
+
+<br/>
 
 ---
 
 <div align="center">
-<sub>323 contributions in the last year · Consistent builder · Production-focused</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" width="100%"/>
 </div>
